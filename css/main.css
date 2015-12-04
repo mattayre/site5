@@ -161,7 +161,9 @@ ul.nostyle i {
   margin-bottom: 0;
 }
 .navbar.navbar-default .navbar-toggle {
-  margin-top: 32px;
+  margin-top: 0px;
+  margin-right: 0px;
+  border-width: 0px;
 }
 .navbar.navbar-default .navbar-brand {
   height: auto;
@@ -943,3 +945,6 @@ ul.nostyle i {
   box-shadow: none;
   -webkit-box-shadow: none;
 }
+/*--myoveride--*/
+
+.navbar
