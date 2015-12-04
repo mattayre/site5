@@ -255,6 +255,11 @@ ul.nostyle i {
   color: #fff;
   font-weight: 200;
 }
+@media only screen and ( max-width: 767px ) {
+  #main-slider .slider-inner h2{
+    margin-top: 50px;
+  } 
+}
 #main-slider .slider-inner h2 > span {
   color: #e60000;
 }
