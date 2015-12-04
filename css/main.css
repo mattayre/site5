@@ -161,13 +161,19 @@ ul.nostyle i {
   margin-bottom: 0;
 }
 .navbar.navbar-default .navbar-toggle {
-  margin-top: 0px;
+  margin-top: 10px;
   margin-right: 0px;
   border-width: 0px;
 }
 .navbar.navbar-default .navbar-brand {
   height: auto;
   padding: 22px 15px 21px;
+}
+@media only screen and ( max-width: 767px ) {
+  .navbar-brand img{
+      width: 230px;
+      height: auto;
+  }
 }
 @media only screen and (min-width: 768px) {
   #main-menu.navbar-default {
@@ -946,5 +952,3 @@ ul.nostyle i {
   -webkit-box-shadow: none;
 }
 /*--myoveride--*/
-
-.navbar
