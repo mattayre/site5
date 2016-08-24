@@ -9,7 +9,7 @@ Author URL: http://shapebootstrap.net
 *******Typography******
 **************************/
 body {
-  padding-top: 100px;
+  padding-top: 10px;
   background: #fff;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
@@ -167,17 +167,26 @@ ul.nostyle i {
 }
 .navbar.navbar-default .navbar-brand {
   height: auto;
-  padding: 22px 15px 21px;
+  padding-top: 10px;
+  
+}
+.navbar-default {
+    background-color: #ffffff;
 }
 @media only screen and ( max-width: 767px ) {
   .navbar-brand img{
-      width: 230px;
+      width: 180px;
       height: auto;
+  }
+  #main-menu.navbar-default {
+    background: rgba(255, 255, 255, 0.8);
+    -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
   }
 }
 @media only screen and (min-width: 768px) {
   #main-menu.navbar-default {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.8);
     -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
   }
@@ -257,7 +266,7 @@ ul.nostyle i {
 }
 @media only screen and ( max-width: 767px ) {
   #main-slider .slider-inner h2{
-    margin-top: 50px;
+    margin-top: 150px;
   } 
 }
 #main-slider .slider-inner h2 > span {

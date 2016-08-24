@@ -1207,139 +1207,139 @@
 	"coffeeCreateSourceMap": 0,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"camel_case_classes": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"colon_assignment_spacing": {
-			"active": false,
+			"active": 0,
 			"flagValue": 1
 			},
 		"cyclomatic_complexity": {
-			"active": false,
+			"active": 0,
 			"flagValue": 10
 			},
 		"duplicate_key": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"empty_constructor_needs_parens": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"ensure_comprehensions": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"indentation": {
-			"active": true,
+			"active": 1,
 			"flagValue": 2
 			},
 		"line_endings": {
-			"active": false,
+			"active": 0,
 			"flagValue": 0
 			},
 		"max_line_length": {
-			"active": false,
+			"active": 0,
 			"flagValue": 150
 			},
 		"missing_fat_arrows": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"newlines_after_classes": {
-			"active": false,
+			"active": 0,
 			"flagValue": 3
 			},
 		"no_backticks": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_debugger": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_empty_functions": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_empty_param_list": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_implicit_braces": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_interpolation_in_single_quotes": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_nested_string_interpolation": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_plusplus": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_private_function_fat_arrows": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_tabs": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_this": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_trailing_semicolons": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_trailing_whitespace": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_unnecessary_double_quotes": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_unnecessary_fat_arrows": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"non_empty_constructor_needs_parens": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"prefer_english_operator": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"space_operators": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"spacing_after_comma": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			}
 		},
@@ -1382,349 +1382,349 @@
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
 		"asi": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"bitwise": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"boss": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"browser": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"browserify": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"camelcase": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"couch": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"curly": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"debug": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"devel": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"dojo": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"elision": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqeqeq": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqnull": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"es3": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"esnext": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"evil": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"expr": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"forin": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"freeze": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"funcscope": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"futurehostile": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"globalstrict": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"immed": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"indent": {
-			"active": false,
+			"active": 0,
 			"flagValue": 4
 			},
 		"iterator": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"jasmine": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"jquery": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"lastsemic": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"latedef": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"laxbreak": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"laxcomma": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"loopfunc": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"maxcomplexity": {
-			"active": false,
+			"active": 0,
 			"flagValue": 10
 			},
 		"maxdepth": {
-			"active": false,
+			"active": 0,
 			"flagValue": 3
 			},
 		"maxlen": {
-			"active": false,
+			"active": 0,
 			"flagValue": 150
 			},
 		"maxparams": {
-			"active": false,
+			"active": 0,
 			"flagValue": 3
 			},
 		"maxstatements": {
-			"active": false,
+			"active": 0,
 			"flagValue": 4
 			},
 		"mocha": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"mootools": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"moz": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"multistr": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"newcap": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"noarg": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"nocomma": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"node": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"noempty": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"nonbsp": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"nonew": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"nonstandard": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"notypeof": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"noyield": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"onecase": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"phantom": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"plusplus": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"proto": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"prototypejs": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"qunit": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"regexp": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"rhino": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"scripturl": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"shadow": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"shelljs": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"singleGroups": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"strict": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"sub": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"supernew": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"typed": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"undef": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"unused": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"varstmt": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"worker": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"wsh": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"yui": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			}
 		},
 	"jsLintFlags2": {
 		"bitwise": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"browser": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"couch": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"devel": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"es6": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eval": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"for": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"maxlen": {
-			"active": false,
+			"active": 0,
 			"flagValue": 150
 			},
 		"node": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"this": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"white": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			}
 		},
@@ -1832,163 +1832,163 @@
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"bare-returns": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"bracketize": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"cascade": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"comments": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"comparisons": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"compress": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"conditionals": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"dead_code": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"drop_console": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"drop_debugger": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"eval": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"evaluate": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"hoist_funs": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"hoist_vars": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"if_return": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"indent-level": {
-			"active": false,
+			"active": 0,
 			"flagValue": 4
 			},
 		"indent-start": {
-			"active": false,
+			"active": 0,
 			"flagValue": 0
 			},
 		"inline-script": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"join_vars": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"keep_fargs": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fnames": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"loops": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"mangle": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"max-line-len": {
-			"active": true,
+			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"properties": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"pure_getters": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"quote-keys": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"sequences": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"sort": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"space-colon": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"unsafe": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"unused": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"warnings": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"width": {
-			"active": true,
+			"active": 1,
 			"flagValue": 80
 			}
 		},
