@@ -179,20 +179,23 @@ ul.nostyle i {
       height: auto;
   }
   #main-menu.navbar-default {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(0, 0, 0, 0.4);
     -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
+    height: 80px;
   }
 }
 @media only screen and (min-width: 768px) {
   #main-menu.navbar-default {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(0, 0, 0, 0.4);
     -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
+    height:100px;
   }
   #main-menu.navbar-default .navbar-nav > li > a {
     padding-top: 40px;
     padding-bottom: 40px;
+    color:#f5f5f5;
   }
   #main-menu.navbar-default .navbar-nav > li.active > a,
   #main-menu.navbar-default .navbar-nav > li.open > a,
