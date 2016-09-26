@@ -5308,11 +5308,11 @@ input.ct-red + span + label + span.switch-right {
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  */
-/*  
+/*
  *
  *   SCSS by Creative Tim
  *   http://www.creative-tim.com
- *   
+ *
  */
 .datepicker {
   top: 0;
@@ -5506,4 +5506,9 @@ input.ct-red + span + label + span.switch-right {
 .datepicker-months thead {
   padding: 0 0 3px;
   display: block;
+}
+@media (min-width: 1200px){
+  .container {
+      width: 1250px;
+  }
 }
